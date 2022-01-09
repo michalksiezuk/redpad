@@ -9,7 +9,7 @@ Designs and hardware used to build this project:
 * SparkFun Pro Micro 5V board [@sparkfun](https://www.sparkfun.com/products/12640)
 * Kailh linear switches [@gmmk](https://www.pcgamingrace.com/products/kailh-mx-switches)
 * Encoder knob [@thingiverse](https://www.thingiverse.com/thing:4206617)
-* Some Cherry MX style switches
+* Some Cherry MX style keycaps
 
 ## Building this project
 This project depends on [Vial fork](https://github.com/vial-kb/vial-qmk) of QMK.
